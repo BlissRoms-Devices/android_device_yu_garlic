@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "BlissRoms-Devices/android_kernel_tinno_msm8937",
+    "target_path": "kernel/tinno/msm8937",
+    "branch": "q"
+  },
+  {
+    "remote": "github",
+    "repository": "BlissRoms-Devices/proprietary_vendor_yu",
+    "target_path": "vendor/yu",
+    "branch": "q"
+  },
+  {
+    "remote": "github",
+    "repository": "BlissRoms-Devices/proprietary_vendor_tinno",
+    "target_path": "vendor/tinno",
+    "branch": "q"
+  },
+  {
+    "remote": "github",
+    "repository":  "BlissRoms-Devices/android_device_tinno_msm8937-common",
+    "target_path": "device/tinno/msm8937-common",
+    "branch": "q"
+  }
+]
